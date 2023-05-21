@@ -14,8 +14,8 @@
 ### Tools:
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/vscode.svg" />][#]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/git.svg" />][#]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-dark.svg" />][#light]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-light.svg" />][#dark]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-light.svg" />][#light]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-dark.svg" />][#dark]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-light.svg" />][#light]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-dark.svg" />][#dark]
 
