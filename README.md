@@ -19,7 +19,7 @@
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-light.svg" />][#light]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-dark.svg" />][#dark]
 
-[website]: https://amrul-pudding.github.io/
+[website]: https://kocheng-angkasa.github.io/
 [instagram]: https://www.instagram.com/kocheng_angkasa/
 [webuniv]: https://um.ac.id/
 [youtube]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg
