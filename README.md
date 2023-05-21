@@ -8,7 +8,6 @@
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/connectwithMe/youtube-dark.svg" />][youtubelight]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/connectwithMe/youtube-light.svg" />][youtubedark]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/connectwithMe/instagram.svg" />][instagram]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/connectwithMe/facebook.svg" />][facebook]
 
 <br />
 
@@ -25,7 +24,6 @@
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-light.svg" />][#dark]
 
 [website]: https://amrul-pudding.github.io/
-[facebook]: https://www.facebook.com/kocheng.atknight
 [instagram]: https://www.instagram.com/kocheng_angkasa/
 [webuniv]: https://um.ac.id/
 [youtube]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg
