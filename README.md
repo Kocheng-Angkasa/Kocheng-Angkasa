@@ -16,8 +16,8 @@
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/git.svg" />][#]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-dark.svg" />][#light]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-light.svg" />][#dark]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-dark.svg" />][#light]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-light.svg" />][#dark]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-light.svg" />][#light]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-dark.svg" />][#dark]
 
 [website]: https://amrul-pudding.github.io/
 [instagram]: https://www.instagram.com/kocheng_angkasa/
