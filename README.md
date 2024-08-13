@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="/images/banner-light.png" alt="Banner Light" width="100%" #gh-light-mode-only />
-</p>
-
-<p align="center">
-  <img src="/images/banner-dark.png" alt="Banner Dark" width="100%" #gh-dark-mode-only />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/path/to/your/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/path/to/your/banner-light.png">
+  <img alt="Banner" src="/path/to/your/banner-light.png">
+</picture>
 
 
 ### Hi there, I'm Muhammad Shalahuddin Amrullah - aka [Kocheng-Angkasa][website]
