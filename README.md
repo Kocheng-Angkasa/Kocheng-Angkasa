@@ -26,7 +26,7 @@
 [instagram]: https://www.instagram.com/kocheng_angkasa/
 [webuniv]: https://um.ac.id/
 [youtube]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg
-[youtubeligh]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg#gh-light-mode-only
+[youtubelight]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg#gh-light-mode-only
 [youtubedark]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg#gh-dark-mode-only
 [#]: #
 [#dark]: #gh-dark-mode-only
