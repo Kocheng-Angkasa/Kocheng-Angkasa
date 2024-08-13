@@ -1,9 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/path/to/your/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/path/to/your/banner-light.png">
-  <img alt="Banner" src="/path/to/your/banner-light.png">
-</picture>
-
+[<img align="center" alt="amrul-pudding" width="100%" src="/images/banner-dark.svg" />][#dark]
+[<img align="center" alt="amrul-pudding" width="100%" src="/images/banner-light.svg" />][#light]
 
 ### Hi there, I'm Muhammad Shalahuddin Amrullah - aka [Kocheng-Angkasa][website]
 
