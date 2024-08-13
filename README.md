@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/path/to/your/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/path/to/your/banner-light.png">
+  <img alt="Banner" src="/path/to/your/banner-light.png">
+</picture>
+
 ### Hi there, I'm Muhammad Shalahuddin Amrullah - aka [Kocheng-Angkasa][website]
 
 ## I'm a college student
@@ -23,7 +29,7 @@
 [instagram]: https://www.instagram.com/kocheng_angkasa/
 [webuniv]: https://um.ac.id/
 [youtube]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg
-[youtubelight]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg#gh-light-mode-only
+[youtubeligh]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg#gh-light-mode-only
 [youtubedark]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg#gh-dark-mode-only
 [#]: #
 [#dark]: #gh-dark-mode-only
